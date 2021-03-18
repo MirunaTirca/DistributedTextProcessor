@@ -1,4 +1,4 @@
-# DistributedTextProcesor
+# DistributedTextProcessor
 
 ./process file.in
 
